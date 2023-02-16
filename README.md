@@ -16,7 +16,10 @@ Jika anda mengalami kesulitan silahkan hubungi saya melalui kontak di bawah
 
 DILARANG DI JUAL KEMBALI !!!<br/>  
 MOHON MAAF VERSI MAPS BELUM BISA DI SHARE MENGINGAT DIBUTHKAN API GMAPS BERBAYAR <br/>  
-UNTUK MENDAPATKAN VERSI MONITORING DENGAN MAPS SILAHKAN SUPPORT DENGAN DONASI
+<p style="color: red;">
+  UNTUK MENDAPATKAN VERSI MONITORING DENGAN MAPS ANDA HARUS PUNYA API GOOGLE MAPS BERBAYAR DAN SILAHKAN SUPPORT SAYA DENGAN DONASI
+</p>
+
 
 Apabila ada error atau yang lainya silahkan komentar di postingan facebook saya <a href="https://www.facebook.com/akuwongndesoo/posts/pfbid02uA7SWQ7qTrA5ZCLX2Xuaa4A14tkqML82m3VYAGJod9oX2pwZvmxz9SRnH2SfHpfil">Buka Link</a>
 
