@@ -15,6 +15,8 @@ Jika anda mengalami kesulitan silahkan hubungi saya melalui kontak di bawah
 😘  
 
 DILARANG DI JUAL KEMBALI !!!
+MOHON MAAF VERSI MAPS BELUM BISA DI SHARE MENGINGAT DIBUTHKAN API GMAPS BERBAYAR 
+UNTUK MENDAPATKAN VERSI MONITORING DENGAN MAPS SILAHKAN SUPPORT DENGAN DONASI
 
 - 🔭 Donasi Via Bank BRI  678701031728538
 - 🔭 Donasi Via Saweria <a href="https://saweria.co/smmedia" target="_blank">Riki Virmansah</a>
