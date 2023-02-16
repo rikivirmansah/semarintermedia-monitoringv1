@@ -18,6 +18,8 @@ DILARANG DI JUAL KEMBALI !!!<br/>
 MOHON MAAF VERSI MAPS BELUM BISA DI SHARE MENGINGAT DIBUTHKAN API GMAPS BERBAYAR <br/>  
 UNTUK MENDAPATKAN VERSI MONITORING DENGAN MAPS SILAHKAN SUPPORT DENGAN DONASI
 
+Apabila ada error atau yang lainya silahkan komentar di postingan facebook saya <a href="https://www.facebook.com/akuwongndesoo/posts/pfbid02uA7SWQ7qTrA5ZCLX2Xuaa4A14tkqML82m3VYAGJod9oX2pwZvmxz9SRnH2SfHpfil">Buka Link</a>
+
 - 🔭 Donasi Via Bank BRI  678701031728538
 - 🔭 Donasi Via Saweria <a href="https://saweria.co/smmedia" target="_blank">Riki Virmansah</a>
 - 🔭 Blog Pribadi <a href="https://catatanbelajar06.blogspot.com/">Buka Website</a>
