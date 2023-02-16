@@ -3,13 +3,26 @@
 </div>  
   
 
-### Aplikasi ini di bagikan untuk mempermudah teman-teman rt rw net dan isp agar bisa lebih mudah memonitoring pelanggan nya melalui tampilan web. Source ini bisa di kembangkan oleh siapapun dengan mencantumkan sumber => semar intermedia 😘  
-  
+<br/>  
+<br/>  
+
+
+Aplikasi ini di bagikan untuk mempermudah teman-teman rt rw net dan isp agar bisa lebih mudah memonitoring pelanggan nya melalui tampilan web. Source ini bisa di kembangkan oleh siapapun dengan mencantumkan sumber => semar intermedia.
+
+Untuk menjalankan aplikasi ini di windows bisa menggunakan <b> Xampp Versi 7.2</b>
+Jika anda mengalami kesulitan silahkan hubungi saya melalui kontak di bawah
+
+😘  
+
+DILARANG DI JUAL KEMBALI !!!
 
 - 🔭 Donasi Via Bank BRI  678701031728538
+- 🔭 Donasi Via Saweria <a href="https://saweria.co/smmedia" target="_blank">Riki Virmansah</a>
+- 🔭 Blog Pribadi <a href="https://catatanbelajar06.blogspot.com/">Buka Website</a>
   
-
-- 🌱 Email : semarintermedia.net 
+  
+- 🌱 Telegram <a href="https://t.me/rikivirmansah">Kirim Pesan</a>
+- 🌱 Email : semarintermedia@gmail.com
   
 
 <br/>  
