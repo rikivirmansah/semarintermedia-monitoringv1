@@ -5,17 +5,11 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title>MONITORING [SEMAR INTERMEDIA]</title>
-  <!-- Tell the browser to be responsive to screen width -->
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
-  <!-- Bootstrap 3.3.7 -->
   <link rel="stylesheet" href="<?= base_url()?>assets/bower_components/bootstrap/dist/css/bootstrap.min.css">
-  <!-- Font Awesome -->
   <link rel="stylesheet" href="<?= base_url()?>assets/bower_components/font-awesome/css/font-awesome.min.css">
-  <!-- Ionicons -->
   <link rel="stylesheet" href="<?= base_url()?>assets/bower_components/Ionicons/css/ionicons.min.css">
-  <!-- Theme style -->
   <link rel="stylesheet" href="<?= base_url()?>assets/dist/css/AdminLTE.min.css">
-  <!-- iCheck -->
   <link rel="stylesheet" href="<?= base_url()?>assets/plugins/iCheck/square/blue.css">
   <link rel="stylesheet" href="<?= base_url()?>assets/css/sweetalert2.min.css">
 
@@ -29,35 +23,56 @@
   </div>
   <!-- /.login-logo -->
   <div class="login-box-body">
-        <h3><center><b>APLIKASI<br>[ MONITORING PELANGGAN ]</b></center></h3><center><p>SEMAR INTERMEDIA</p></center><br>
+        <h3><center><b>APLIKASI<br>[ MONITORING PELANGGAN ]</b></center></h3>
+        
+        <center>
+  <p style="color: green;">
+   SEMAR INTERMEDIA
+  </p>
+</center>
+
+        
+        <br>
     <form name="frmlogin" method="post" action="<?= $form_action ?>">
         
         
       <div class="form-group has-feedback">
-        <!-- <select class="form-control" name="hostname" id="hostname" required>
-                  <option value=""> -- Pilih Server -- </option>
-                 
-                  <option value="103.122.67.194:8777">Mikrotik Citando</option>
-                  <option value="103.122.67.194:8778">Mikrotik Pengasinan</option>
-                 
-    </select> -->
-        <div class="form-group has-feedback">
-       <input type="username" class="form-control" placeholder="103.122.67.194:PORT" id="hostname" name="hostname">
+      <div class="form-group has-feedback">
+      <input type="username" class="form-control" placeholder="192.168.0.1:8728" id="hostname" name="hostname">
         
       </div>
      
       
       <div class="form-group has-feedback">
-        <input type="text" class="form-control" placeholder="Username" id="username" name="username" >
+        <input type="text" class="form-control" placeholder="Username Mikrotik" id="username" name="username" >
        
       </div>
       <div class="form-group has-feedback">
-        <input type="password" class="form-control" placeholder="Password" id="password" name="password">
+        <input type="password" class="form-control" placeholder="Password Mikrotik" id="password" name="password">
         
       </div>
       <div class="box-footer">
         <button type="submit" class="btn btn-info pull-right">Sign In</button>
       </div>
+        <center>
+              <p style="color: magenta; animation: blink 3s linear infinite;">
+                SUPPORT KAMI YA !<br>BANK BRI - 678701031728538
+              </p>
+        </center>
+
+        <style>
+          @keyframes blink {
+            0% {
+              opacity: 1;
+            }
+            50% {
+              opacity: 0;
+            }
+            100% {
+              opacity: 1;
+            }
+          }
+        </style>
 
     </form>
 

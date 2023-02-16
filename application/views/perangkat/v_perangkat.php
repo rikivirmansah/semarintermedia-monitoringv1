@@ -99,7 +99,8 @@
                   ?>
 					</td>
 					<td><?= $key['disabled']?></td>
-					<td><a href="<?= site_url('perangkat/edit/'.$id) ?>" class="btn btn-warning btn-xs">Edit</a>
+					<td><a href="<?= site_url('interkoneksi/list/'.$id) ?>" class="btn btn-success btn-xs">Interkoneksi</a>
+						<a href="<?= site_url('perangkat/edit/'.$id) ?>" class="btn btn-warning btn-xs">Edit</a>
 						<a href="<?= site_url('perangkat/remove/'.$id) ?>" onclick="return confirm('Yakin Dihapus?')"
 							class="btn btn-danger btn-xs">Hapus</a>
 						<?php

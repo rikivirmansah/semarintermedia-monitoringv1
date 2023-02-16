@@ -98,7 +98,7 @@
 
 <script src="<?php echo base_url()?>assets/bower_components/jquery/dist/jquery.min.js"></script>
 <script 
-  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDYpiHUf60SqPq5qY62CiIUWhOvdkb3W1U&callback=initMap">
+  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCIwF204lFZg1y4kPSIhKaHEXMLYxxuMhA&v&callback=initMap">
 </script>
 
 <script type="text/javascript">

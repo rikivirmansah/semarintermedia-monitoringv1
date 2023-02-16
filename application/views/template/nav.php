@@ -20,8 +20,7 @@
         <!-- Dasbor -->
         <li><a href="<?php echo base_url('dasbor') ?>"><i class="fa fa-dashboard"></i><span> DASHBOARD</span></a></li>
         <li><a href="<?php echo base_url('perangkat') ?>"><i class="fa fa-users"></i><span> PERANGKAT</span></a></li>
-        <li><a href="<?php echo base_url('interkoneksi/maps_pelanggan') ?>"><i class="fa fa-map"></i><span> MAPS PELANGGAN</span></a></li>
-        <!-- menu berita -->
+         <!-- menu berita -->
 
         
         

@@ -186,57 +186,8 @@ class Interkoneksi extends CI_Controller {
     }
     
     
-  public function maps_pelanggan()
-  {
-      if ($this->routerosapi->connect($this->session->userdata('hostname_mikrotik'), $this->session->userdata('username_mikrotik'), $this->session->userdata('password_mikrotik'))){
-			$this->routerosapi->write('/tool/netwatch/getall');
-			$perangkat = $this->routerosapi->read();
-			$this->routerosapi->disconnect();			
-			$total_results = count($perangkat);
-	}
-
-            $interkoneksi = $this->db->query("SELECT * from interkoneksi");
-
-			$data  = array('title' =>'Maps Pelanggan' ,
-							'isi' =>'interkoneksi/maps_pelanggan',
-							'perangkat' =>$perangkat,
-							'interkoneksi' =>$interkoneksi
-							);
-		$this->load->view('template/wrapper',$data);
-  }
+ 
   
-  public function refresh_map()
-  {
-      if ($this->routerosapi->connect($this->session->userdata('hostname_mikrotik'), $this->session->userdata('username_mikrotik'), $this->session->userdata('password_mikrotik'))){
-			$this->routerosapi->write('/tool/netwatch/getall');
-			$perangkat = $this->routerosapi->read();
-			$this->routerosapi->disconnect();			
-			$total_results = count($perangkat);
-	}
-
-            $interkoneksi = $this->db->query("SELECT * from interkoneksi");
-
-			$data  = array('title' =>'Maps Pelanggan' ,
-							'perangkat' =>$perangkat,
-							'interkoneksi' =>$interkoneksi
-							);
-		$this->load->view('interkoneksi/refresh_map',$data);
-      
-  }
-  
-    public function save_session()
-  {
-      // Get the values from the AJAX request
-        $center_lat = $_POST['center_lat'];
-        $center_lng = $_POST['center_lng'];
-        $zoom = $_POST['zoom'];
-        
-        
-        $data = array('center_lat'=> $center_lat, 'center_lng' => $center_lng, 'zoom' => $zoom);
-				$this->session->set_userdata($data);
-				
-				
-  }
-
+    
     
 }
